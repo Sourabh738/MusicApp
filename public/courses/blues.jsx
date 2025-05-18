@@ -1,0 +1,1 @@
+<img src="https://github.com/hiteshchoudhary/Music-school-hindi/blob/main/public/courses/blues.jpg?raw=true" alt="course1"/>
